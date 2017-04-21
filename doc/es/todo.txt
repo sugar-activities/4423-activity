@@ -1,0 +1,4 @@
+﻿===TODO===
+-> Generar clic por software (XLib???)
+-> Filtrar de mejor forma el movimiento del mouse
+-> Buscar la forma de 'minimizar' la aplicación automáticamente

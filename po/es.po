@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-12-15 19:28+0000\n"
+"PO-Revision-Date: 2010-12-15 18:00-3\n"
+"Last-Translator: Rodrigo Perez <rodripf@gmail.com>\n"
+"Language-Team: ES \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: activity/activity.info:2
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:131
+msgid "hMouse"
+msgstr "hMouse"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:232
+msgid "Mueva la cabeza arriba a la izquierda"
+msgstr "Mueva la cabeza arriba a la izquierda"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:239
+msgid "Mueva la cabeza abajo a la derecha"
+msgstr "Mueva la cabeza abajo a la derecha"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:253
+msgid "Mueva la cabeza a la izquierda"
+msgstr "Mueva la cabeza a la izquierda"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:260
+msgid "Mueva la cabeza a la derecha"
+msgstr "Mueva la cabeza a la derecha"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:270
+msgid "Mueva la cabeza arriba"
+msgstr "Mueva la cabeza arriba"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:279
+msgid "Mueva la cabeza abajo"
+msgstr "Mueva la cabeza abajo"
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:293
+msgid "Coloquese lo mas cerca del centro posible."
+msgstr "Coloquese lo mas cerca del centro posible."
+
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:312
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:319
+#: /home/rodripf/Programación/camara_XO/src/Procesador.py:324
+msgid "Fin de la calibracion."
+msgstr "Fin de la calibracion."
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:37
+msgid "Presione Iniciar!"
+msgstr "Presione Iniciar!"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:49
+msgid "Calibrar ArrIzq-AbjDer"
+msgstr "Calibrar ArrIzq-AbjDer"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:57
+msgid "Calibrar 1"
+msgstr "Calibrar 1"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:65
+msgid "Calibrar 2"
+msgstr "Calibrar 2"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:72
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:159
+msgid "Iniciar"
+msgstr "Iniciar"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:79
+msgid "Ver camara"
+msgstr "Ver camara"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:86
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:196
+msgid "Ayuda"
+msgstr "Ayuda"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:93
+msgid "Acerca de..."
+msgstr "Acerca de..."
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:103
+msgid "Velocidad 1"
+msgstr "Velocidad 1"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:110
+msgid "Velocidad 2"
+msgstr "Velocidad 2"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:117
+msgid "Velocidad 3"
+msgstr "Velocidad 3"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:124
+msgid "Velocidad 4"
+msgstr "Velocidad 4"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:135
+msgid "Velocidad"
+msgstr "Velocidad"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:155
+msgid "Detener"
+msgstr "Detener"
+
+#: /home/rodripf/Programación/camara_XO/src/hMouse.py:188
+msgid "Siguiente"
+msgstr "Siguiente"
